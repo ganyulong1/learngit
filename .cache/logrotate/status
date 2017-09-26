@@ -1,0 +1,13 @@
+logrotate state -- version 2
+"/home/ganyulong/.cache/upstart/unity7.log" 2017-9-26-3:53:2
+"/home/ganyulong/.cache/upstart/unity-panel-service.log" 2017-9-26-3:53:2
+"/home/ganyulong/.cache/upstart/upstart-event-bridge.log" 2017-9-26-3:53:2
+"/home/ganyulong/.cache/upstart/unity-settings-daemon.log" 2017-9-26-3:53:2
+"/home/ganyulong/.cache/upstart/indicator-sound.log" 2017-9-26-3:53:2
+"/home/ganyulong/.cache/upstart/update-notifier-release.log" 2017-9-26-3:0:0
+"/home/ganyulong/.cache/upstart/window-stack-bridge.log" 2017-9-26-3:53:2
+"/home/ganyulong/.cache/upstart/ssh-agent.log" 2017-9-26-3:53:2
+"/home/ganyulong/.cache/upstart/dbus.log" 2017-9-26-3:53:2
+"/home/ganyulong/.cache/upstart/gnome-keyring-ssh.log" 2017-9-26-3:53:2
+"/home/ganyulong/.cache/upstart/hud.log" 2017-9-26-3:53:2
+"/home/ganyulong/.cache/upstart/gpg-agent.log" 2017-9-26-3:53:2
